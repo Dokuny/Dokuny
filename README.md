@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. "Open Source"같은 개발자, Dokuny 입니다.👋
 
 <!--
 **Dokuny/Dokuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
