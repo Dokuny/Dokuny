@@ -41,6 +41,6 @@
 
 ### 📊 Stats
 <div>
-  <img style="width:00px" src="https://github-readme-stats.vercel.app/api?username=Dokuny&show_icons=true&theme=tokyonight"/>
+  <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=Dokuny&show_icons=true&theme=tokyonight"/>
   <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokuny&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
