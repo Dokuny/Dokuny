@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Dokuny&fontSize=80)
 
-### 소통과 공유를 추구하는 "Open Source"같은 개발자, Dokuny 입니다.👋
-
+### 소통과 공유를 추구하는 "Open Source"같은 개발자, Dokuny 입니다.
+객제지향언어인 JAVA를 주로 사용합니다. 웹 서비스 어플리케이션 개발 및 DevOps에 관심이 많습니다.
 ### 🛠️ Stacks
 <div>
     <div class="language">
