@@ -38,3 +38,9 @@
     </div>
    
 </div>
+        
+        
+### ✋ Team Project History
+* 프로젝트 팀원 모집 서비스 : https://github.com/ChocoTeamTeam/ToGather-BE
+* 스타크래프트 공부를 위한 강의 서비스 : https://github.com/Zerobase-Stardy/Stardy
+
