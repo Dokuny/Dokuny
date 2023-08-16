@@ -5,15 +5,19 @@
 <br>
 <br>
 
-## 🛠️ Skills
 
+    
+##  🛠️ Skills
+    
 ### Language & Platform
+    
 <div>
     <div class="language">
         <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
     </div>
 </div>
 
+    
 ### Framework
 <div class="framework">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -45,15 +49,21 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
-<br>
-
-## 📚 Algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestour)](https://solved.ac/nestour)
 
 <br>
 
 ## ✋ Team Project History
-* 프로젝트 팀원 모집 서비스 : https://github.com/ChocoTeamTeam/ToGather-BE
-* 스타크래프트 공부를 위한 강의 서비스 : https://github.com/Zerobase-Stardy/Stardy
+* [프로젝트 팀원 모집 서비스](https://github.com/ChocoTeamTeam/ToGather-BE)
+* [스타크래프트 공부를 위한 강의 서비스](https://github.com/Zerobase-Stardy/Stardy)
+
+<br>
+
+<div align ="center">
+
+
+## 📚 Algorithm
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestour)](https://solved.ac/nestour)
+</div>
+<br>
 
