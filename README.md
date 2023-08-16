@@ -49,7 +49,7 @@
 
 ## 📚 Algorithm
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={nestour})](https://solved.ac/{nestour})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestour)](https://solved.ac/nestour)
 
 <br>
 
