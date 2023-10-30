@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Dokuny&fontSize=80)
+![image](https://github.com/Dokuny/Dokuny/assets/87813831/dbb664c6-f389-4bc7-aed3-afeba3f86194)![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Dokuny&fontSize=80)
 
 ### 소통과 공유를 추구하는 "Open Source"같은 개발자, Dokuny 입니다.
 객제지향언어인 JAVA를 주로 사용합니다. 웹 서비스 어플리케이션 개발 및 DevOps에 관심이 많습니다.
@@ -53,8 +53,10 @@
 <br>
 
 ## ✋ Team Project History
-* [프로젝트 팀원 모집 서비스](https://github.com/ChocoTeamTeam/ToGather-BE)
-* [스타크래프트 공부를 위한 강의 서비스](https://github.com/Zerobase-Stardy/Stardy)
+* [프로젝트 팀원 모집 서비스, ToGather](https://github.com/ChocoTeamTeam/ToGather-BE)
+* [공금 관리 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
+* [스타크래프트 공부를 위한 강의 서비스,Stardy](https://github.com/Zerobase-Stardy/Stardy)
+
 
 <br>
 
@@ -66,4 +68,5 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestour)](https://solved.ac/nestour)
 </div>
 <br>
+<img src="https://github.com/Dokuny/Dokuny/assets/87813831/f09d6642-e86c-4ca5-8e6b-ee70ff3fa84e">
 
