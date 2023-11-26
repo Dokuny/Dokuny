@@ -62,6 +62,8 @@
 
 <div align ="center">
 
+### 👑 Awards
+* 2023 KDT 해커톤 직업능력심사 평가원장상
 
 ## 📚 Algorithm
 [![Solved.ac
