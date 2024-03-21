@@ -18,7 +18,7 @@
 - **Backend** : 
 ![SpringBoot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![SpringSecurity Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![SpringDataJPA Badge](https://img.shields.io/badge/Spring%20gData%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
+![SpringDataJPA Badge](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![SpringCloud Badge](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=Spring&logoColor=white)
 
 - **Frontend** :
