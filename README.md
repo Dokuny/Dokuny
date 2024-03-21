@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Dokuny&fontSize=80)
 
-### 궁금증을 원동력으로 삼는 개발자, Dokuny 입니다.
+### 불편함을 편리함으로 바꾸는 개발자, Dokuny 입니다.
 객제지향언어인 JAVA를 주로 사용합니다. 웹 서비스 어플리케이션 개발 및 DevOps에 관심이 많습니다.
 <br>
 <br>
@@ -52,10 +52,12 @@
 
 <br>
 
-## ✋ Team Project History
-* [프로젝트 팀원 모집 서비스, ToGather](https://github.com/ChocoTeamTeam/ToGather-BE)
-* [공금 관리 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
-* [스타크래프트 공부를 위한 강의 서비스,Stardy](https://github.com/Zerobase-Stardy/Stardy)
+### ✋ Project History
+* 🚢 [알고리즘 스터디 항해를 위한 서비스, Code Odyssey](https://github.com/Dokuny/Code-Odyssey)
+* 🚄 [여행 계획과 소통을 한번에 잡은 플래너 + SNS, Traverse](https://github.com/Dokuny/traverse)
+* 😀 [투명한 공금 관리를 위한 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
+* 🤼‍♂️ [프로젝트 팀원을 모으고 진행에 도움을 주는 서비스, ToGather](https://github.com/ChocoTeamTeam/ToGather-BE)
+* 🎮 [스타크래프트 초심자를 위한 강의 서비스,Stardy](https://github.com/Zerobase-Stardy/Stardy)
 
 
 <br>
@@ -64,9 +66,22 @@
 
 ### 👑 Awards
 * 2023 KDT 해커톤 직업능력심사 평가원장상
+* Samsung Software Academy For Youth (SSAFY) 1학기 성적 최우수상
+* Samsung Software Academy For Youth (SSAFY) 1학기 프로젝트 우수상
+* Samsung Software Academy For Youth (SSAFY) 2학기 공통 프로젝트 우수상
+* Samsung Software Academy For Youth (SSAFY) x 삼성전자 DA 사업부 연계 프로젝트 진행
 
+<br>
+
+### 📌 Certificates
+* 정보처리기사
+* SQLD
+* 삼성전자 소프트웨어 역량 평가 B형
+* HSAT
+* 국제무역사
 
 <div align ="center">
+
 
 
 ## 📚 Algorithm
@@ -74,5 +89,3 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestour)](https://solved.ac/nestour)
 </div>
 <br>
-
-![image](https://github.com/Dokuny/Dokuny/assets/87813831/dbb664c6-f389-4bc7-aed3-afeba3f86194)
