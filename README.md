@@ -64,10 +64,10 @@
 ## 👑 Awards
 * **2023.09 - 신한은행 해커톤 본선**
 * **2023.11 - 2023 KDT 해커톤 직업능력심사 평가원장상**
-* **2023.12 - Samsung Software Academy For Youth (SSAFY) 1학기 성적 최우수상**
-* **2023.12 - Samsung Software Academy For Youth (SSAFY) 1학기 프로젝트 우수상**
-* **2024.02 - Samsung Software Academy For Youth (SSAFY) 2학기 공통 프로젝트 우수상**
-* **2024.03 - Samsung Software Academy For Youth (SSAFY) x 삼성전자 DA 사업부 연계 프로젝트 진행**
+* **2023.12 - SSAFY 1학기 성적 최우수상**
+* **2023.12 - SSAFY 1학기 프로젝트 우수상**
+* **2024.02 - SSAFY 2학기 공통 프로젝트 우수상**
+* **2024.03 - SSAFY x 삼성전자 DA 사업부 연계 프로젝트 진행**
 
 <br>
 
