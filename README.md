@@ -56,6 +56,7 @@
 * 😀 [투명한 공금 관리를 위한 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
 * 🤼‍♂️ [프로젝트 팀원을 모으고 진행에 도움을 주는 서비스, ToGather](https://github.com/ChocoTeamTeam/ToGather-BE)
 * 🎮 [스타크래프트 초심자를 위한 강의 서비스,Stardy](https://github.com/Zerobase-Stardy/Stardy)
+* 👨‍👩‍👦‍👦 생성형 이미지를 통한 가족 소통 서비스, Familiar (삼성전자 DA 사업부 연계 프로젝트)
 
 
 <br>
@@ -67,7 +68,7 @@
 * **2023.12 - SSAFY 1학기 성적 최우수상**
 * **2023.12 - SSAFY 1학기 프로젝트 우수상**
 * **2024.02 - SSAFY 2학기 공통 프로젝트 우수상**
-* **2024.03 - SSAFY x 삼성전자 DA 사업부 연계 프로젝트 진행**
+* **2024.04 - SSAFY x 삼성전자 DA 사업부 연계 프로젝트 1등 수상**
 
 <br>
 
