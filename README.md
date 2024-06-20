@@ -52,9 +52,9 @@
 
 ## ✋ Project History
 * 👶 [AI를 활용한 청각장애인 부모의 육아 보조 서비스, 아이콘](https://github.com/ICanSeeYourVoice/ICON)
-* 👨‍👩‍👦‍👦 [**생성형 이미지를 통한 가족 소통 서비스, Familiar (삼성전자 DA 사업부 연계 프로젝트)**](https://github.com/ssaida-s003/familiar)
-* 🚢 [알고리즘 스터디 항해를 위한 서비스, Code Odyssey](https://github.com/Dokuny/Code-Odyssey)
-* 🚄 [여행 계획과 소통을 한번에 잡은 플래너 + SNS, Traverse](https://github.com/Dokuny/traverse)
+* 👨‍👩‍👦‍👦 [생성형 이미지를 통한 가족 소통 서비스, Familiar (삼성전자 DA 사업부 연계 프로젝트)](https://github.com/ssaida-s003/familiar)
+* 🚢 [편안한 알고리즘 스터디를 위한 서비스, Code Odyssey](https://github.com/Dokuny/Code-Odyssey)
+* 🚄 [여행 계획과 소통을 한번에 잡은 플래너, Traverse](https://github.com/Dokuny/traverse)
 * 😀 [투명한 공금 관리를 위한 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
 * 🤼‍♂️ [프로젝트 팀원을 모으고 진행에 도움을 주는 서비스, ToGather](https://github.com/ChocoTeamTeam/ToGather-BE)
 * 🎮 [스타크래프트 초심자를 위한 강의 서비스,Stardy](https://github.com/Zerobase-Stardy/Stardy)
@@ -66,13 +66,13 @@
 
 
 ## 👑 Awards
-* **2023.09 - 신한은행 Hackathon 본선 진출**
+* **2023.09 - 신한은행 Hackathon 본선 진출 및 수료**
 * **2023.11 - 2023 K-Digital Training Hackathon 직업능력심사 평가원장상**
-* **2023.12 - SSAFY 1학기 성적 최우수상**
-* **2023.12 - SSAFY 1학기 프로젝트 우수상**
-* **2024.02 - SSAFY 2학기 공통 프로젝트 우수상**
-* **2024.04 - SSAFY x 삼성전자 DA 사업부 연계 프로젝트 1등 수상**
-* **2024.05 - SSAFY 2학기 자율 프로젝트 최우수상 및 최종 결선 2등**
+* **2023.12 - SSAFY 1학기 성적 최우수상(1등)**
+* **2023.12 - SSAFY 1학기 프로젝트 우수상(2등)**
+* **2024.02 - SSAFY 2학기 공통 프로젝트 우수상(2등)**
+* **2024.04 - SSAFY / 삼성전자 가전 사업부 연계 프로젝트 1등 수상**
+* **2024.05 - SSAFY 2학기 자율 프로젝트 최우수상(1등) 및 최종 결선 2등**
 
 <br>
 
