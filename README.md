@@ -51,11 +51,11 @@
 <br>
 
 ## ✋ Project History
-* 👶 [AI를 활용한 청각장애인 부모의 육아 보조 서비스, 아이콘](https://github.com/ICanSeeYourVoice/ICON)
-* 👨‍👩‍👦‍👦 [생성형 이미지를 통한 가족 소통 서비스, Familiar (삼성전자 DA 사업부 연계 프로젝트)](https://github.com/ssaida-s003/familiar)
-* 🚢 [편안한 알고리즘 스터디를 위한 서비스, Code Odyssey](https://github.com/Dokuny/Code-Odyssey)
-* 🚄 [여행 계획과 소통을 한번에 잡은 플래너, Traverse](https://github.com/Dokuny/traverse)
-* 😀 [투명한 공금 관리를 위한 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
+* 👶 [AI를 활용한 청각장애인 부모의 육아 보조 서비스, 아이콘 (SSAFY 자율 프로젝트)](https://github.com/ICanSeeYourVoice/ICON)
+* 👨‍👩‍👦‍👦 [생성형 이미지를 통한 가족 소통 서비스, Familiar (삼성전자 가전 사업부 연계 프로젝트)](https://github.com/ssaida-s003/familiar)
+* 🚢 [편안한 알고리즘 스터디를 위한 서비스, Code Odyssey (SSAFY 공통 프로젝트)](https://github.com/Dokuny/Code-Odyssey)
+* 🚄 [여행 계획과 소통을 한번에 잡은 플래너, Traverse (SSAFY 관통 프로젝트)](https://github.com/Dokuny/traverse)
+* 😀 [투명한 공금 관리를 위한 서비스, SSoC (신한은행 해커톤)](https://github.com/SSoc-Student-SOCiety/SSoc)
 * 🤼‍♂️ [프로젝트 팀원을 모으고 진행에 도움을 주는 서비스, ToGather](https://github.com/ChocoTeamTeam/ToGather-BE)
 * 🎮 [스타크래프트 초심자를 위한 강의 서비스,Stardy](https://github.com/Zerobase-Stardy/Stardy)
 
