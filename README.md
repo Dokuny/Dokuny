@@ -4,7 +4,7 @@
 * 👨‍🎓 **Inha Univ. International Trade (2014 ~ 2021)**
 * 📕 **Ezen Computer Academy (2021)**
 * 📗 **Zerobase Backend School 1th (2022)**
-* 📘 **Samsung Software Academy For Youth(SSAFY) 10th (2023 ~)**
+* 📘 **Samsung Software Academy For Youth(SSAFY) 10th (2023 ~ 2024)**
 
 <br>
 
