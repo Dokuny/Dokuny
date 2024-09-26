@@ -87,9 +87,9 @@
 
 <br>
 
-## 📚 Stat
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dokuny&show_icons=true)
+## 📚 algorithm
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nestour)](https://solved.ac/nestour)
-
+[![코드트리|실력진단-nestour95](https://banner.codetree.ai/v1/banner/nestour95)](https://www.codetree.ai/profiles/nestour95)
 <br>
