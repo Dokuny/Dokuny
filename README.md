@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&section=header&text=Dokuny🍀&fontSize=60)
 
-## 😀 불편함을 편리함으로 바꾸는 개발자, Dokuny 입니다 😀
+## 😀 이해할 수 없는 코드는 책임질 수 없다, 개발자 Dokuny 입니다 😀
 * 👨‍🎓 **Inha Univ. International Trade (2014 ~ 2021)**
 * 📕 **Ezen Computer Academy (2021)**
 * 📗 **Zerobase Backend School 1th (2022)**
