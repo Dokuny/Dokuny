@@ -6,6 +6,7 @@
 * 📗 **Zerobase Backend School 1th (2022)**
 * 📘 **Samsung Software Academy For Youth(SSAFY) 10th (2023 ~ 2024)**
 * 💼 **Samsung Software Academy For Youth(SSAFY) 11th Coach (2024 ~ 2024)**
+* ⚒️ **Samsung Electronics Co.,Ltd.(2025 ~ ing)**
 
 <br>
 
